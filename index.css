@@ -1,0 +1,33 @@
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:cadetblue;
+}
+
+.main, .subtitle {
+    text-align: center;
+}
+
+#filipino-flag {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+img {
+    height: 300px;
+    width: auto;
+    border-image: fill;
+}
+
+.recipe {
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.desc {
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
